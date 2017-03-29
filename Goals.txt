@@ -1,0 +1,36 @@
+Goals of my Portfolio Site
+
+	Quick bio
+	Name w/ Logo
+	Contact information
+	mission statement
+	list of all sites/projects w/ links
+
+Layout
+
+	Navigation bar
+		Logo in top left Hand corner
+		About
+		Projects
+		Contact
+		Inspiration
+
+	Section with mission statement
+
+	A section with mini-icons for projects created
+
+Development
+	
+	I want this site to be urban/metro
+	High quality photos of what inspires me
+	Needs to be fresh/trendy
+
+
+SITE MAP
+
+	Main.html
+		about.html
+		projects.html
+		contact.html
+		inspiratioon.html
+		
